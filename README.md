@@ -1,6 +1,6 @@
 Olá, seja bem-vindo 👋
 
-- 🔭 Buscando aprender cada vez mais sobre programação...
+- 🔭 Buscando aprender cada vez mais sobre Análise de dados...
 - 🌱 Analisando dados
 - 💬 Contate-me no email: reginaldoalvesti@outlook.com
 - 😄 Pronouns: ele/dele
